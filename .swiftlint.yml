@@ -569,3 +569,5 @@ reporter: "xcode"
 excluded:
     - Notes/Controller/AppDelegate.swift
     - Notes/Controller/SceneDelegate.swift
+    - Notes/Model/NoteEntity+CoreDataClass.swift
+    - Notes/Model/NoteEntity+CoreDataProperties.swift
